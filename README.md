@@ -64,7 +64,7 @@ Main lifts progress from roughly 70% to 80% of working max over weeks 1–3, fol
 ## Getting started
 
 1. Create a new Claude Project.
-2. Copy `instructions/project-instructions.md` to `instructions/my-instructions.md`, fill it in, and paste it into the project instructions .
+2. Copy `instructions/project-instructions.md` to `instructions/my-instructions.md`, fill it in, and paste it into the project instructions.
 3. Upload your previous plans and workouts to the project, and fill in the **Workout history and preferences** section (what you've done, what you enjoyed, what you didn't). This is how the AI suggests sessions you'll actually enjoy and stick with.
 4. Ask for your first 4-week block, e.g. *"Build my first 4-week recomp block."*
 5. Log sessions, report new numbers, and check in at the end of each block.

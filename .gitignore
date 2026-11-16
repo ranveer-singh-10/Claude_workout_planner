@@ -1,0 +1,4 @@
+# Keep your personal, filled-in instructions out of version control.
+# Commit only the blank template (instructions/project-instructions.md).
+instructions/my-instructions.md
+*.private.md
